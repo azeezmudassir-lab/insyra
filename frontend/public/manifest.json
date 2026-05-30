@@ -1,0 +1,17 @@
+{
+  "name": "Insyra — School Management Platform",
+  "short_name": "Insyra",
+  "description": "Next-generation multi-tenant SaaS for school management",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B3C5D",
+  "theme_color": "#0B3C5D",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
